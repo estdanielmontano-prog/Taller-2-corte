@@ -34,7 +34,6 @@ Esta parte añade, sobre el movimiento fluido, el **agarre de un objeto** con la
 
 Cada pulsador va entre su pin y **GND**; se usa `INPUT_PULLUP`, por lo que no se necesitan resistencias externas.
 
-📷 *Coloca aquí la foto del montaje:* `evidencias/montaje.jpg`
 
 ## 4. Arquitectura
 
