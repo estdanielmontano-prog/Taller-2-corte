@@ -34,8 +34,6 @@ Esta parte se centra solo en la **movilidad**: no hay objeto ni pinza. El agarre
 
 Cada pulsador va entre su pin y **GND**; se usa `INPUT_PULLUP`, sin resistencias externas.
 
-📷 *Coloca aquí la foto del montaje:* `evidencias/montaje.jpg`
-
 ## 4. Arquitectura
 
 ```
@@ -88,9 +86,6 @@ parte_c_baxter_movilidad/
   3. La clase `Estela` agrega un segmento cada 6 mm de avance del efector, con un color que cambia con la longitud recorrida; al detenerse muestra la longitud total.
   4. Actualiza en pantalla el texto con las coordenadas objetivo.
 
-## 7. Evidencias
-
-🎥 **Video de funcionamiento:** *(pega aquí el enlace del video)*
 
 ### Puesta en marcha
 
