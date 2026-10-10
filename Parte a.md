@@ -83,7 +83,7 @@ parte_a_dron/
 
 ## 7. Evidencias
 
-🎥 **Video de funcionamiento:** *(pega aquí el enlace del video)*
+🎥 **Video de funcionamiento:** *(https://drive.google.com/drive/u/0/folders/1ABYW4ooAyx6Ivvj62gKILjlh1gHZZKSv)*
 
 ### Puesta en marcha
 
